@@ -1,7 +1,7 @@
-eslint-config
+eslint-config-react
 =============================
 
-The ComparaOnline linter shareable configuration for javascript.
+The ComparaOnline linter shareable configuration for React apps.
 
 # Installation
 
