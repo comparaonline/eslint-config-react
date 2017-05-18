@@ -13,6 +13,9 @@
     "type": "git",
     "url": "git+https://github.com/comparaonline/eslint-config-react.git"
   },
+  "publishConfig": {
+    "access": "public"
+  },
   "dependencies": {
     "@comparaonline/eslint-config": "^1.0.1",
     "eslint-config-airbnb": "^15.0.1",
