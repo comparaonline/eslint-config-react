@@ -1,6 +1,6 @@
 {
   "name": "@comparaonline/eslint-config-react",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Eslint configuration for ComparaOnline using React apps",
   "main": "index.js",
   "keywords": [
@@ -12,6 +12,9 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/comparaonline/eslint-config-react.git"
+  },
+  "publishConfig": {
+	  "access": "public"
   },
   "dependencies": {
     "@comparaonline/eslint-config": "^1.0.1",
