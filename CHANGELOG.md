@@ -1,6 +1,10 @@
 # Change Log
 All notable changes to this project will be documented in this file.
 
+## v1.0.3 - 05/18/2017
+### Changed
+- Don't install minor versions of dependencies
+
 ## v1.0.2 - 05/18/2017
 ### Fixed
 - Added `eslint-config-airbn` to rules
