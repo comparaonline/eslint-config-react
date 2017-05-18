@@ -1,5 +1,8 @@
 module.exports = {
-  'extends': '@comparaonline',
+  'extends': [
+    'eslint-config-airbnb',
+    '@comparaonline/eslint-config'
+  ],
   'plugins': [
     'react',
     'jsx-a11y',
