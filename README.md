@@ -8,13 +8,13 @@ The ComparaOnline linter shareable configuration for React apps.
 First, you need eslint, if it isn't installed yet...
 
 ```
-$ npm install --save-dev eslint
+$ yarn add --dev eslint
 ```
 
 Then,
 
 ```
-$ npm install --save-dev @comparaonline/eslint-config-react
+$ yarn add --dev @comparaonline/eslint-config-react
 ```
 
 # Usage
